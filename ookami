@@ -68,7 +68,7 @@ class oukami1q
 				n = 4;
 				System.out.println("ok");
 			}
-		}no
+		}
 	}
 	System.out.println("オオカミはだれ？A、B、Cのいずれかを入力");
 	String str2 = br.readLine();
